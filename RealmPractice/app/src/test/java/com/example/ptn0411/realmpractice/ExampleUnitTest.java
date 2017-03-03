@@ -1,4 +1,4 @@
-package com.example.ptn0411.myapplication;
+package com.example.ptn0411.realmpractice;
 
 import org.junit.Test;
 

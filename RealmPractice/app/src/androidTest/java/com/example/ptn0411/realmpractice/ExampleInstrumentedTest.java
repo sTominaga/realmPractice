@@ -1,4 +1,4 @@
-package com.example.ptn0411.myapplication;
+package com.example.ptn0411.realmpractice;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.ptn0411.myapplication", appContext.getPackageName());
+        assertEquals("com.example.ptn0411.realmpractice", appContext.getPackageName());
     }
 }
